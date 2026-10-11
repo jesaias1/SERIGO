@@ -38,6 +38,12 @@ effects and a live oscilloscope. 1,024 factory presets, every one with six named
 3. Pick the VST3 plugin, the standalone app, or both.
 4. In your music software, rescan plugins. SERIGO appears as an instrument.
 
+### Without the installer
+
+Prefer not to run a setup program? The same release has `SERIGO-…-win64-vst3.zip`: the VST3 plugin only,
+with nothing to run. Unzip it, copy the `SERIGO.vst3` folder to `C:\Program Files\Common Files\VST3`
+and rescan plugins in your music software.
+
 **Requirements:** Windows 10 or 11, 64-bit. For the plugin, any host that loads VST3 instruments.
 
 ## How it was built
