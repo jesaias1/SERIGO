@@ -3,7 +3,7 @@
 **A hybrid synthesizer for Windows. VST3 plugin and standalone app.**
 
 Three layers per sound, each one analog, wavetable, sample or granular, through one filter, thirteen
-effects and a live oscilloscope. 1,024 factory presets, every one with six named macros.
+effects and a live oscilloscope. 1,032 factory presets, every one with six named macros.
 
 ### [Download the installer (latest version)](https://github.com/jesaias1/SERIGO/releases/latest)
 
@@ -13,7 +13,7 @@ effects and a live oscilloscope. 1,024 factory presets, every one with six named
 
 - **Four engines, three layers.** Analog oscillators with unison up to seven voices, sixteen wavetables,
   eighteen sampled instruments and a granular engine. Any layer can frequency- or ring-modulate the next.
-- **1,024 presets in 13 categories**: Cinematic, Leads, Bass, Pads, Keys, Plucks, Arps, Textures,
+- **1,032 presets in 13 categories**: Cinematic, Leads, Bass, Pads, Keys, Plucks, Arps, Textures,
   Atmospheres, Experimental, Rage, Drums and Essentials. Search, tags, ratings, favourites and a shuffle button.
 - **Six macros per sound.** Each preset names its own six knobs, so the useful moves are always on the first page.
 - **Twelve variations.** One click makes a warmer, darker, wider, punchier or lo-fi version of any sound. Undo brings the original back.
@@ -21,6 +21,7 @@ effects and a live oscilloscope. 1,024 factory presets, every one with six named
   reverb, stereo, multiband, crusher and tape stop.
 - **Modulation by drag and drop**: LFOs with drawn shapes, a drawn envelope, a step sequencer, an arpeggiator and MPE.
 - **An oscilloscope worth looking at.** Five display modes, including one that traces the outline of any picture you give it.
+- **Grains in time.** Granular layers can fire their grains on the beat, with four grain shapes. Put an LFO on Position for the chopped-sample sound of house records.
 - **Texturize.** Drop in a sample of your own and it is blended into the current sound as a granular layer.
 - **Play it from the computer keyboard.** Two and a half octaves on two rows, on any keyboard layout, with scale lock and chord mode.
 
