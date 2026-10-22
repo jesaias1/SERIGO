@@ -7,6 +7,8 @@ effects and a live oscilloscope. 1,032 factory presets, every one with six named
 
 ### [Download the installer (latest version)](https://github.com/jesaias1/SERIGO/releases/latest)
 
+### [Open the SERIGO page](https://jesaias1.github.io/SERIGO/)
+
 ![The PLAY page](screenshots/play.png)
 
 ## What it does
